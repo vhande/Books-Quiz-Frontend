@@ -6,7 +6,7 @@ A frontend project with ReactJS. Click [here](https://my-books-project.netlify.a
 *Search books using the customised search bar by category and name.<br/>
 *Do a 10 question quiz to test your knowledge about books.<br/>
 
-#APIs:
+# APIs:
 Google Books API<br/>
 Open Trivia Database API<br/>
 
